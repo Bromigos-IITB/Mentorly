@@ -35,7 +35,7 @@ Node.js and npm installed on your machine.
 A Firebase project with Authentication and Firestore enabled.
 
 Installation & Setup
-Clone the repo
+Clone the repo.
 
 Bash
 
