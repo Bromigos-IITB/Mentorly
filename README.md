@@ -39,7 +39,7 @@ Clone the repo
 
 Bash
 
-git clone https://github.com/your-username/mentorly.git
+git clone [https://github.com/Bromigos-IITB/Mentorly]
 Navigate to the project directory
 
 Bash
