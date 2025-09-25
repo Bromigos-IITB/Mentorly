@@ -3,7 +3,6 @@ Mentorly: Find Your Path, Together.
 
 Mentorly is a modern web application designed to bridge the gap between aspiring learners and experienced professionals. It provides a dynamic platform for finding the perfect mentor, participating in insightful events, and accelerating personal and professional growth.
 
-Replace this with a screenshot of your new landing page!
 
 ✅ Key Features
 👥 Dual User Roles: A seamless experience for both Mentors and Mentees, featuring tailored registration flows and distinct profile functionalities.
